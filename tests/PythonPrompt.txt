@@ -1,0 +1,3 @@
+Which MLB Baseball Team is leading the American League Central Division in 2025? And what is the 
+address of the home baseball stadium this team plays in. Show step by step. Please output the final answer in 
+JSON format (team, winning_percentage, address).
